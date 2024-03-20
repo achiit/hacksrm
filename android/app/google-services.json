@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "795800102468",
+    "project_id": "hacksrm-bb5f7",
+    "storage_bucket": "hacksrm-bb5f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795800102468:android:cfe216c680c9d1109cfe11",
+        "android_client_info": {
+          "package_name": "com.example.smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795800102468-0i8c1u103shsp5a240eket21u4shln2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_home",
+            "certificate_hash": "27ac0c02d89afe7044b3282ce882913c19f9d400"
+          }
+        },
+        {
+          "client_id": "795800102468-cre5f4hrms7vvuqtltdnnficoh9jilbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-e3j8uPJUNEN_WPKF_-Jwe0kXkKo4pHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795800102468-cre5f4hrms7vvuqtltdnnficoh9jilbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
